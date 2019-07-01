@@ -6,8 +6,8 @@ window.Seed = (function () {
             description: 'Language of the present and the future.',
             url: '#',
             votes: 16,
-            avatar: '../public/images/avatars/daniel.jpg',
-            submissionImage: '../public/images/submissions/image-yellow.png',
+            avatar: '../public/images/avatars/boy.png',
+            submissionImage: '../public/images/submissions/python.jpeg',
         },
         {
             id: 2,
@@ -15,8 +15,8 @@ window.Seed = (function () {
             description: 'What if you could turn your dreams into reality instantly?',
             url: '#',
             votes: 11,
-            avatar: '../public/images/avatars/kristy.png',
-            submissionImage: '../public/images/submissions/image-rose.png',
+            avatar: '../public/images/avatars/girl1.png',
+            submissionImage: '../public/images/submissions/sample.jpeg',
         },
         {
             id: 3,
@@ -24,8 +24,8 @@ window.Seed = (function () {
             description: 'There\'s a lot to learn from Uncle Jack.',
             url: '#',
             votes: 17,
-            avatar: '../public/images/avatars/veronika.jpg',
-            submissionImage: '../public/images/submissions/image-steel.png',
+            avatar: '../public/images/avatars/man.png',
+            submissionImage: '../public/images/submissions/abstract.jpeg',
         },
         {
             id: 4,
@@ -33,8 +33,8 @@ window.Seed = (function () {
             description: 'Language of the web. Not learning it is not an excuse.',
             url: '#',
             votes: 9,
-            avatar: '../public/images/avatars/molly.png',
-            submissionImage: '../public/images/submissions/image-aqua.png',
+            avatar: '../public/images/avatars/girl2.png',
+            submissionImage: '../public/images/submissions/javascript.png',
         }
     ];
 
