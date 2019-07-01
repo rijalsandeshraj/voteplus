@@ -1,0 +1,1 @@
+This is an Vue.js application which displays user submissions with priority based on user votes.
